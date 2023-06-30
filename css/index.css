@@ -159,6 +159,33 @@ img{
     }
 }
 
+.section-title{
+    font-size: 26px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.section-image{
+    margin-bottom: 70px;
+}
+.list-ul{
+    display: flex;
+    justify-content: space-between;
+}
+.list-li{
+    width: 300px;
+}
+.list-imgae img{
+    width: 300px;
+}
+.list-title{
+　　font-size: 20px;
+　　font-weight: bold;
+　　text-align: center;
+　　margin: 10px 0;
+}
+
+
 .footer{
     color: #ffffff;
     background-color: #24211b;
