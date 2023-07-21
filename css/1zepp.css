@@ -6,4 +6,8 @@
     background-size: cover;
     display: flex;
     align-items: center;
+    font-family:sans-serif;
+}
+.komidashi{
+    font-size: 35px;
 }
